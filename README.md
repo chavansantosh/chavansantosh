@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santosh+Chavan;Data+Scientist+%7C+AI+Engineer;Student" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
+<h3 align="center">🚀 Fresher Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/chavansantosh&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/chavansantosh" />
+  <img src="https://img.shields.io/badge/Fresher-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
 </p>
@@ -24,7 +24,7 @@
 - 🏆 Experienced in **end-to-end ML pipelines** — from EDA to deployment
 - ☁️ Hands-on with **Azure ML**, cloud deployments & scalable data architecture
 - 📊 Passionate about turning raw data into **actionable business insights**
-- 📫 Reach me at: **ssartale6@gmail.com**
+- 📫 Reach me at: **chavansantoshnarayan.com**
 - 📍 Based in **Hyderabad, India**
 
 ---
@@ -75,12 +75,12 @@ ai_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsartale4952&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsartale4952&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/chavansantosh&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/chavansantosh&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsartale4952&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/chavansantosh&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 
@@ -100,7 +100,7 @@ ai_stack = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsartale4952&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/chavansantosh&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -108,16 +108,16 @@ ai_stack = {
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-sunil-sartale-469791232/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/sunnysartale" target="_blank">
+  <a href="https://www.kaggle.com/santoshchavan" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:ssartale6@gmail.com">
+  <a href="mailto:chavansantoshnarayan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sumitsartale4952" target="_blank">
+  <a href="https://github.com/https://github.com/chavansantosh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -126,7 +126,7 @@ ai_stack = {
 
 <p align="center">
   <i>"Data is the new oil, but AI Agents are the refinery."</i><br/>
-  <b>— Sumit Sartale</b>
+  <b>— Santosh chavan</b>
 </p>
 
 <p align="center">
