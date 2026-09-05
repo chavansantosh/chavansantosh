@@ -16,46 +16,47 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Sc. Computer Science student** and a **fresher** currently developing my skills in Data Science and Python.
+I am a **B.Sc. Computer Science student** and a **fresher** developing my skills in Data Science, Data Analytics, and Python.
 
-I am pursuing **Data Science training at Naresh i Technologies**, where I am building practical knowledge through daily coding practice, data analysis, and projects.
+I am pursuing **Data Science training at Naresh i Technologies**, where I build practical knowledge through coding practice, data analysis, and projects.
 
 * 🎓 B.Sc. Computer Science Student
 * 📚 Data Science Training at **Naresh i Technologies**
-* 🐍 Learning and practicing **Python**
-* 🐼 Working with **Pandas & NumPy**
-* 📊 Learning **Data Analysis & Data Visualization**
-* 🧹 Practicing **Data Cleaning & Exploratory Data Analysis**
-* 🗄️ Learning **SQL**
-* 📈 Interested in **Data Science & Data Analytics**
-* 💻 Regularly uploading my learning tasks and notebooks to GitHub
-* 🚀 Currently building projects and improving my practical skills
+* 🐍 Python Programming
+* 🐼 Pandas & NumPy
+* 📊 Data Analysis & Data Visualization
+* 🧹 Data Cleaning & Exploratory Data Analysis
+* 🗄️ SQL
+* 📈 Data Science & Data Analytics
+* 💻 Daily coding tasks and notebook practice
+* 🚀 Practical projects and hands-on work
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### 💻 Programming
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Data Science & Analysis
+### 📊 Data Science & Analysis
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -66,62 +67,63 @@ I am pursuing **Data Science training at Naresh i Technologies**, where I am bui
 
 ---
 
-## 📊 Data Science Skills
+## 📊 Areas of Practice
 
-* 🐍 Python Programming
-* 🐼 Pandas
-* 🔢 NumPy
-* 📈 Matplotlib
-* 📊 Data Analysis
-* 🧹 Data Cleaning
-* 🔍 Exploratory Data Analysis (EDA)
-* 📉 Data Visualization
-* 📐 Statistics
-* 🗄️ SQL
-* 📓 Jupyter Notebook
+| Area                   | Skills                    |
+| ---------------------- | ------------------------- |
+| 🐍 Programming         | Python                    |
+| 🐼 Data Manipulation   | Pandas                    |
+| 🔢 Numerical Computing | NumPy                     |
+| 🧹 Data Preparation    | Data Cleaning             |
+| 📊 Data Analysis       | Exploratory Data Analysis |
+| 📈 Visualization       | Matplotlib & Seaborn      |
+| 📐 Statistics          | Statistical Concepts      |
+| 🗄️ Database           | MySQL & SQL               |
+| 📓 Development         | Jupyter Notebook          |
+| 🔧 Version Control     | Git & GitHub              |
 
 ---
 
-## 📚 Learning Journey
+## 📚 My Approach
 
-I believe in learning by **practicing concepts and applying them to real datasets**.
+I believe in learning through **practice, projects, and consistency**.
 
 ```text
-📖 Learn a Concept
-       ↓
-💻 Practice with Python
-       ↓
+📖 Understand
+     ↓
+💻 Practice
+     ↓
 📊 Work with Data
-       ↓
-🧹 Clean the Data
-       ↓
-🔍 Analyze the Data
-       ↓
-📈 Visualize Insights
-       ↓
-📓 Document the Work
-       ↓
+     ↓
+🧹 Clean Data
+     ↓
+🔍 Analyze
+     ↓
+📈 Visualize
+     ↓
+📓 Document
+     ↓
 🚀 Upload to GitHub
-       ↓
-🔁 Learn & Improve
+     ↓
+🔁 Improve
 ```
 
 ---
 
 ## 📅 Daily Learning & Task Progress
 
-I regularly upload my learning work to GitHub to maintain consistency and track my progress.
+I regularly upload my coding tasks, exercises, assignments, and notebooks to GitHub to maintain consistency and track my development.
 
-| 🗂️ Category     | 📝 What I Practice                           |
+| 🗂️ Category     | 📝 Work                                      |
 | ---------------- | -------------------------------------------- |
 | 🐍 Python        | Coding problems, logic building & exercises  |
-| 🐼 Pandas        | Data manipulation & analysis                 |
-| 🔢 NumPy         | Numerical operations                         |
-| 📊 Matplotlib    | Data visualization                           |
+| 🐼 Pandas        | Data manipulation & analysis tasks           |
+| 🔢 NumPy         | Numerical operations & exercises             |
+| 📊 Visualization | Matplotlib & Seaborn                         |
 | 🧹 Data Cleaning | Missing values, duplicates & transformations |
 | 🔍 EDA           | Dataset exploration & insights               |
 | 🗄️ SQL          | Queries, filtering & aggregations            |
-| 📓 Jupyter       | Daily notebooks & assignments                |
+| 📓 Jupyter       | Notebooks & assignments                      |
 
 ### 📂 Daily Task Repository
 
@@ -135,7 +137,7 @@ I regularly upload my learning work to GitHub to maintain consistency and track 
 
 > 🚀 Every task I upload represents another step in my Data Science journey.
 
-**Learn → Practice → Upload → Improve**
+**Practice → Build → Upload → Improve**
 
 ---
 
@@ -143,9 +145,9 @@ I regularly upload my learning work to GitHub to maintain consistency and track 
 
 ### 🎬 Netflix Data Analysis
 
-Explored and analyzed Netflix-related data using Python and data analysis techniques.
+Worked with Netflix data to perform data cleaning, exploration, analysis, and visualization.
 
-**Skills:** Python, Pandas, Data Cleaning, EDA, Data Visualization
+**Tools:** Python, Pandas, Matplotlib, Seaborn
 
 ---
 
@@ -153,23 +155,23 @@ Explored and analyzed Netflix-related data using Python and data analysis techni
 
 Worked with laptop data to practice data cleaning, transformation, analysis, and visualization.
 
-**Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
 ### 🏠 Real Estate Data Analysis
 
-Worked with real estate data and practiced cleaning location, size, area, price, and other dataset attributes.
+Worked with real estate data and practiced data cleaning, transformation, location standardization, price conversion, and analysis.
 
-**Skills:** Python, Pandas, Data Cleaning, EDA
+**Tools:** Python, Pandas, Data Cleaning, EDA
 
 ---
 
 ### 📊 Market Data Analysis
 
-Worked with market data using an API and Python to collect and analyze structured financial/market information.
+Collected market data using an API and Python and worked with structured market information for analysis.
 
-**Skills:** Python, API, Requests, Pandas, Data Analysis
+**Tools:** Python, Requests, API, Pandas, Data Analysis
 
 ---
 
@@ -187,24 +189,25 @@ Worked with market data using an API and Python to collect and analyze structure
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Skills Development
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Completed%20%26%20Practicing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-Learning-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Next%20Step-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📈 My Development Focus
+## 📈 Development Focus
 
-As a fresher, my current focus is on building a strong foundation through **consistent practice and practical projects**.
+As a fresher, my focus is on building a strong foundation through **consistent practice and practical projects**.
 
 ```text
 Python
@@ -232,7 +235,7 @@ Data Science Projects
 
 I am looking for an opportunity where I can start my professional career as a **fresher** and apply my knowledge of Python, Data Analysis, SQL, and Data Science.
 
-My goal is to continuously learn, work on real-world problems, contribute to a team, and grow as a **Data Scientist / Data Analyst**.
+My goal is to work on real-world problems, contribute to a team, continuously improve my technical skills, and grow as a **Data Scientist / Data Analyst**.
 
 ---
 
@@ -240,7 +243,7 @@ My goal is to continuously learn, work on real-world problems, contribute to a t
 
 > **"Learning becomes valuable when you practice it, apply it, and build something with it."**
 
-I focus on **hands-on practice, daily learning, and building projects** rather than only collecting certificates.
+I focus on **hands-on practice, daily tasks, and building projects** to strengthen my technical skills.
 
 ---
 
@@ -254,7 +257,7 @@ I focus on **hands-on practice, daily learning, and building projects** rather t
 
 </p>
 
-This repository contains my **daily Python tasks, exercises, assignments, notebooks, and learning work**.
+This repository contains my **Python tasks, exercises, assignments, notebooks, and practical work**.
 
 ---
 
@@ -286,6 +289,6 @@ This repository contains my **daily Python tasks, exercises, assignments, notebo
 
 <p align="center">
 
-**🚀 Learn • Practice • Build • Improve 🚀**
+**🚀 Practice • Build • Upload • Improve 🚀**
 
 </p>
