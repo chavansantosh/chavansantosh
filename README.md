@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santosh Chavan
 
-### 🚀 Aspiring Data Scientist | Aspiring Data Analyst | Python Developer
+### Aspiring Data Scientist | Aspiring Data Analyst | Python Developer
 
 <p align="left">
 
@@ -16,29 +16,38 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Sc. Computer Science student** and a **fresher** developing my skills in Data Science, Data Analytics, and Python.
+Hi, I'm **Santosh Chavan**, a **B.Sc. Computer Science graduate** and **Data Science fresher** with a strong interest in **Data Analytics, Python, and working with data**.
 
-I am pursuing **Data Science training at Naresh i Technologies**, where I build practical knowledge through coding practice, data analysis, and projects.
+I enjoy turning raw data into meaningful information through **data cleaning, analysis, visualization, and exploratory data analysis**. I believe in building my skills through consistent practice and hands-on projects rather than focusing only on theory.
 
-* 🎓 B.Sc. Computer Science Student
-* 📚 Data Science Training at **Naresh i Technologies**
-* 🐍 Python Programming
-* 🐼 Pandas & NumPy
-* 📊 Data Analysis & Data Visualization
-* 🧹 Data Cleaning & Exploratory Data Analysis
-* 🗄️ SQL
-* 📈 Data Science & Data Analytics
-* 💻 Daily coding tasks and notebook practice
-* 🚀 Practical projects and hands-on work
+### What I Bring
+
+* 🐍 Strong foundation in **Python**
+* 📊 Practical exposure to **Data Analysis & EDA**
+* 🐼 Experience working with **Pandas & NumPy**
+* 📈 Data Visualization using **Matplotlib & Seaborn**
+* 🗄️ Knowledge of **SQL & MySQL**
+* 🧹 Hands-on practice with **Data Cleaning & Transformation**
+* 📓 Regular practice through **Jupyter Notebooks and coding tasks**
+* 🚀 Building projects to strengthen my practical knowledge
+
+### My Goal
+
+I'm looking for an opportunity as a **Data Analyst / Data Science fresher** where I can apply my technical skills, work with real-world data, learn from experienced professionals, and contribute to meaningful projects.
+
+> **I don't just want to learn data — I want to understand it, analyze it, and turn it into useful insights.**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
+### 💻 Programming & Web Development
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 📊 Data Science & Analysis
@@ -65,7 +74,6 @@ I am pursuing **Data Science training at Naresh i Technologies**, where I build 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
----
 
 ## 📊 Areas of Practice
 
@@ -86,35 +94,35 @@ I am pursuing **Data Science training at Naresh i Technologies**, where I build 
 
 ## 📚 My Approach
 
-I believe in learning through **practice, projects, and consistency**.
+I believe in building strong technical skills through **practice, projects, and consistency**.
 
 ```text
-📖 Understand
-     ↓
-💻 Practice
-     ↓
-📊 Work with Data
-     ↓
-🧹 Clean Data
-     ↓
-🔍 Analyze
-     ↓
-📈 Visualize
-     ↓
-📓 Document
-     ↓
-🚀 Upload to GitHub
-     ↓
-🔁 Improve
+Understand
+    ↓
+Practice
+    ↓
+Work with Data
+    ↓
+Clean Data
+    ↓
+Analyze
+    ↓
+Visualize
+    ↓
+Build Projects
+    ↓
+Document & Upload
+    ↓
+Improve
 ```
 
 ---
 
-## 📅 Daily Learning & Task Progress
+## 📅 Daily Tasks & Practice
 
 I regularly upload my coding tasks, exercises, assignments, and notebooks to GitHub to maintain consistency and track my development.
 
-| 🗂️ Category     | 📝 Work                                      |
+| Category         | Work                                         |
 | ---------------- | -------------------------------------------- |
 | 🐍 Python        | Coding problems, logic building & exercises  |
 | 🐼 Pandas        | Data manipulation & analysis tasks           |
@@ -130,12 +138,12 @@ I regularly upload my coding tasks, exercises, assignments, and notebooks to Git
 <p align="center">
 
 <a href="https://github.com/chavansantosh/python-it-lab">
-<img src="https://img.shields.io/badge/📚%20VIEW%20DAILY%20TASKS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Daily Tasks Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20DAILY%20TASKS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Daily Tasks Repository"/>
 </a>
 
 </p>
 
-> 🚀 Every task I upload represents another step in my Data Science journey.
+> **Every task represents another step in my Data Science journey.**
 
 **Practice → Build → Upload → Improve**
 
@@ -147,7 +155,7 @@ I regularly upload my coding tasks, exercises, assignments, and notebooks to Git
 
 Worked with Netflix data to perform data cleaning, exploration, analysis, and visualization.
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Tools:** Python · Pandas · Matplotlib · Seaborn
 
 ---
 
@@ -155,7 +163,7 @@ Worked with Netflix data to perform data cleaning, exploration, analysis, and vi
 
 Worked with laptop data to practice data cleaning, transformation, analysis, and visualization.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
 ---
 
@@ -163,7 +171,7 @@ Worked with laptop data to practice data cleaning, transformation, analysis, and
 
 Worked with real estate data and practiced data cleaning, transformation, location standardization, price conversion, and analysis.
 
-**Tools:** Python, Pandas, Data Cleaning, EDA
+**Tools:** Python · Pandas · Data Cleaning · EDA
 
 ---
 
@@ -171,7 +179,7 @@ Worked with real estate data and practiced data cleaning, transformation, locati
 
 Collected market data using an API and Python and worked with structured market information for analysis.
 
-**Tools:** Python, Requests, API, Pandas, Data Analysis
+**Tools:** Python · Requests · API · Pandas · Data Analysis
 
 ---
 
@@ -189,7 +197,7 @@ Collected market data using an API and Python and worked with structured market 
 
 ---
 
-## 🎯 Skills Development
+## 🎯 Skills & Development
 
 <p align="center">
 
@@ -233,7 +241,7 @@ Data Science Projects
 
 ## 🎯 Career Objective
 
-I am looking for an opportunity where I can start my professional career as a **fresher** and apply my knowledge of Python, Data Analysis, SQL, and Data Science.
+I am looking for an opportunity where I can start my professional career as a **fresher** and apply my knowledge of **Python, Data Analysis, SQL, and Data Science**.
 
 My goal is to work on real-world problems, contribute to a team, continuously improve my technical skills, and grow as a **Data Scientist / Data Analyst**.
 
@@ -252,7 +260,7 @@ I focus on **hands-on practice, daily tasks, and building projects** to strength
 <p align="center">
 
 <a href="https://github.com/chavansantosh/python-it-lab">
-<img src="https://img.shields.io/badge/🐍%20Python%20IT%20Lab-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON%20IT%20LAB-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python IT Lab"/>
 </a>
 
 </p>
@@ -285,10 +293,10 @@ This repository contains my **Python tasks, exercises, assignments, notebooks, a
 
 ---
 
-## ⭐ Thank You for Visiting!
-
 <p align="center">
 
-**🚀 Practice • Build • Upload • Improve 🚀**
+### ⭐ Thanks for visiting my profile!
+
+**Practice • Build • Upload • Improve**
 
 </p>
