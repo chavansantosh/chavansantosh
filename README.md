@@ -16,9 +16,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Santosh Chavan**, a **B.Sc. Computer Science graduate** and **Data Science fresher** with a strong interest in **Data Analytics, Python, and working with data**.
+Hi, I'm **Santosh Chavan**, a **B.Sc. Computer Science graduate** and **Data Science fresher** with a strong interest in **Data Analytics, Python, Machine Learning, and working with data**.
 
-I enjoy turning raw data into meaningful information through **data cleaning, analysis, visualization, and exploratory data analysis**. I believe in building my skills through consistent practice and hands-on projects rather than focusing only on theory.
+I enjoy turning raw data into meaningful information through **data cleaning, analysis, visualization, exploratory data analysis, and statistical understanding**.
+
+I believe in building my skills through consistent practice and hands-on projects rather than focusing only on theory.
 
 ### What I Bring
 
@@ -28,6 +30,8 @@ I enjoy turning raw data into meaningful information through **data cleaning, an
 * 📈 Data Visualization using **Matplotlib & Seaborn**
 * 🗄️ Knowledge of **SQL & MySQL**
 * 🧹 Hands-on practice with **Data Cleaning & Transformation**
+* 📐 Foundation in **Mathematics & Statistics**
+* 🤖 Currently learning **Machine Learning**
 * 📓 Regular practice through **Jupyter Notebooks and coding tasks**
 * 🚀 Building projects to strengthen my practical knowledge
 
@@ -59,6 +63,13 @@ I'm looking for an opportunity as a **Data Analyst / Data Science fresher** wher
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
+### 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-Currently%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Currently%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
 ### 🗄️ Database
 
 <p>
@@ -74,21 +85,41 @@ I'm looking for an opportunity as a **Data Analyst / Data Science fresher** wher
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
+---
 
 ## 📊 Areas of Practice
 
-| Area                   | Skills                    |
-| ---------------------- | ------------------------- |
-| 🐍 Programming         | Python                    |
-| 🐼 Data Manipulation   | Pandas                    |
-| 🔢 Numerical Computing | NumPy                     |
-| 🧹 Data Preparation    | Data Cleaning             |
-| 📊 Data Analysis       | Exploratory Data Analysis |
-| 📈 Visualization       | Matplotlib & Seaborn      |
-| 📐 Statistics          | Statistical Concepts      |
-| 🗄️ Database           | MySQL & SQL               |
-| 📓 Development         | Jupyter Notebook          |
-| 🔧 Version Control     | Git & GitHub              |
+| Area | Skills |
+| ---------------------- | ---------------------------- |
+| 🐍 Programming | Python |
+| 🐼 Data Manipulation | Pandas |
+| 🔢 Numerical Computing | NumPy |
+| 🧹 Data Preparation | Data Cleaning |
+| 📊 Data Analysis | Exploratory Data Analysis |
+| 📈 Visualization | Matplotlib & Seaborn |
+| 📐 Mathematics & Statistics | Statistical Concepts |
+| 🗄️ Database | MySQL & SQL |
+| 🤖 Machine Learning | Currently Learning |
+| 📓 Development | Jupyter Notebook |
+| 🔧 Version Control | Git & GitHub |
+
+---
+
+## 📚 Learning Progress
+
+My Data Science learning journey is progressing step by step through **programming, data analysis, mathematics, statistics, and machine learning**.
+
+| Stage | Status |
+| -------------------------- | ---------------- |
+| 🐍 Python | ✅ Completed |
+| 🐼 NumPy & Pandas | ✅ Completed |
+| 🧹 Data Cleaning | ✅ Practiced |
+| 📊 Data Analysis & EDA | ✅ Practiced |
+| 📈 Data Visualization | ✅ Practiced |
+| 🗄️ SQL | 📚 Learning & Practicing |
+| 📐 Mathematics & Statistics | ✅ Completed |
+| 🤖 Machine Learning | 🚀 Currently Learning |
+| 📊 Data Science Projects | 🚀 Ongoing |
 
 ---
 
@@ -109,6 +140,10 @@ Analyze
     ↓
 Visualize
     ↓
+Learn Statistics
+    ↓
+Machine Learning
+    ↓
 Build Projects
     ↓
 Document & Upload
@@ -122,16 +157,18 @@ Improve
 
 I regularly upload my coding tasks, exercises, assignments, and notebooks to GitHub to maintain consistency and track my development.
 
-| Category         | Work                                         |
+| Category | Work |
 | ---------------- | -------------------------------------------- |
-| 🐍 Python        | Coding problems, logic building & exercises  |
-| 🐼 Pandas        | Data manipulation & analysis tasks           |
-| 🔢 NumPy         | Numerical operations & exercises             |
-| 📊 Visualization | Matplotlib & Seaborn                         |
+| 🐍 Python | Coding problems, logic building & exercises |
+| 🐼 Pandas | Data manipulation & analysis tasks |
+| 🔢 NumPy | Numerical operations & exercises |
+| 📊 Visualization | Matplotlib & Seaborn |
 | 🧹 Data Cleaning | Missing values, duplicates & transformations |
-| 🔍 EDA           | Dataset exploration & insights               |
-| 🗄️ SQL          | Queries, filtering & aggregations            |
-| 📓 Jupyter       | Notebooks & assignments                      |
+| 🔍 EDA | Dataset exploration & insights |
+| 🗄️ SQL | Queries, filtering & aggregations |
+| 📐 Statistics | Statistical concepts & problem solving |
+| 🤖 Machine Learning | Algorithms, model building & evaluation |
+| 📓 Jupyter | Notebooks & assignments |
 
 ### 📂 Daily Task Repository
 
@@ -183,6 +220,14 @@ Collected market data using an API and Python and worked with structured market 
 
 ---
 
+### 📚 Book Data Scraping & Analysis
+
+Scraped book information from an online website using Python and BeautifulSoup, cleaned the collected data, and performed exploratory analysis.
+
+**Tools:** Python · Requests · BeautifulSoup · Pandas · Data Cleaning · EDA
+
+---
+
 ## 🏆 Certifications
 
 ### Cisco Networking Academy
@@ -205,9 +250,11 @@ Collected market data using an API and Python and worked with structured market 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-0E75B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Currently%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Currently%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </p>
 
@@ -215,7 +262,7 @@ Collected market data using an API and Python and worked with structured market 
 
 ## 📈 Development Focus
 
-As a fresher, my focus is on building a strong foundation through **consistent practice and practical projects**.
+My current focus is on building a strong Data Science foundation through **consistent practice, statistics, machine learning, and practical projects**.
 
 ```text
 Python
@@ -230,18 +277,33 @@ Data Visualization
   ↓
 SQL
   ↓
-Statistics
+Mathematics & Statistics
   ↓
-Machine Learning
+Machine Learning 🚀
   ↓
 Data Science Projects
 ```
+
+### 🚀 Current Focus: Machine Learning
+
+I have completed my **Mathematics & Statistics foundation** and have now started learning **Machine Learning**.
+
+My current learning path includes:
+
+* 🤖 Understanding Machine Learning fundamentals
+* 📊 Understanding features and target variables
+* 🧹 Preparing data for ML models
+* 📈 Understanding model evaluation
+* 🔢 Learning supervised learning algorithms
+* 🧠 Practicing model building with Python
+* 📚 Working with Scikit-learn
+* 🚀 Applying Machine Learning concepts to real datasets
 
 ---
 
 ## 🎯 Career Objective
 
-I am looking for an opportunity where I can start my professional career as a **fresher** and apply my knowledge of **Python, Data Analysis, SQL, and Data Science**.
+I am looking for an opportunity where I can start my professional career as a **Data Analyst / Data Science fresher** and apply my knowledge of **Python, Data Analysis, SQL, Statistics, and Machine Learning**.
 
 My goal is to work on real-world problems, contribute to a team, continuously improve my technical skills, and grow as a **Data Scientist / Data Analyst**.
 
