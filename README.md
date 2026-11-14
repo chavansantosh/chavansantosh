@@ -33,66 +33,35 @@
 ## 👤 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:6A5ACD,100:00D9FF&height=60&section=header&text=%F0%9F%9A%80%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:6A5ACD,100:00D9FF&height=60&section=header&text=%F0%9F%9A%80%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Who Am I"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&width=520&height=40&lines=%F0%9F%8E%93+B.Sc.+Computer+Science+Graduate;%F0%9F%90%8D+Python+for+Data+Analysis+%26+Problem-Solving;%F0%9F%93%8A+Data+Cleaning+%7C+EDA+%7C+Visualization;%F0%9F%A4%96+Machine+Learning+%26+Model+Evaluation;%F0%9F%9B%A1%EF%B8%8F+Built+a+Store+Fraud+Detection+System;%F0%9F%8E%AF+Data+Analyst+%7C+Data+Scientist+%7C+ML" alt="About Me Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=460&height=40&lines=%F0%9F%8E%93+B.Sc.+Computer+Science+Graduate;%F0%9F%90%8D+Python+for+Data+Analysis+%26+Problem-Solving;%F0%9F%93%8A+Data+Cleaning+%7C+EDA+%7C+Visualization;%F0%9F%A4%96+Machine+Learning+%26+Model+Evaluation;%F0%9F%9B%A1%EF%B8%8F+Built+a+Store+Fraud+Detection+System;%F0%9F%8E%AF+Data+Analyst+%7C+Data+Scientist+%7C+ML" alt="About Me Typing"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <table>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Education-0E75B6?style=for-the-badge" alt="Education"/></td>
-        <td>🎓 <b>B.Sc. Computer Science Graduate</b> from Osmania University.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Working%20With-3776AB?style=for-the-badge" alt="Working With"/></td>
-        <td>🐍 <b>Python</b> for data analysis and problem-solving.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Exploring-6A5ACD?style=for-the-badge" alt="Exploring"/></td>
-        <td>📊 Datasets through <b>Data Cleaning, EDA and Visualization</b>.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Developing-8A2BE2?style=for-the-badge" alt="Developing"/></td>
-        <td>🤖 Knowledge of <b>Machine Learning and Model Evaluation</b>.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Built-009688?style=for-the-badge" alt="Built"/></td>
-        <td>🛡️ An end-to-end <b>Store Fraud Detection System</b>.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Expanding-2E8B57?style=for-the-badge" alt="Expanding"/></td>
-        <td>🌱 My knowledge of <b>Machine Learning, SQL and Data Analytics</b>.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Tools-F7931E?style=for-the-badge" alt="Tools"/></td>
-        <td>🧰 Working with Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Interested%20In-D14836?style=for-the-badge" alt="Interested In"/></td>
-        <td>💡 Building practical projects that solve real-world problems.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Career%20Interests-0A66C2?style=for-the-badge" alt="Career Interests"/></td>
-        <td>🎯 <b>Data Analyst | Data Scientist | Machine Learning</b>.</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/Location-333333?style=for-the-badge" alt="Location"/></td>
-        <td>📍 India.</td>
-      </tr>
-      </table>
-    </td>
-    <td valign="middle" align="center">
-      <img alt="Coding Animation" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="Coding Animation" width="45%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+</p>
+
+- <img src="https://img.shields.io/badge/Education-0E75B6?style=flat-square" alt="Education"/> 🎓 **B.Sc. Computer Science Graduate** from Osmania University.
+- <img src="https://img.shields.io/badge/Working_With-3776AB?style=flat-square" alt="Working With"/> 🐍 **Python** for data analysis and problem-solving.
+- <img src="https://img.shields.io/badge/Exploring-6A5ACD?style=flat-square" alt="Exploring"/> 📊 Datasets through **Data Cleaning, EDA and Visualization**.
+- <img src="https://img.shields.io/badge/Developing-8A2BE2?style=flat-square" alt="Developing"/> 🤖 Knowledge of **Machine Learning and Model Evaluation**.
+- <img src="https://img.shields.io/badge/Built-009688?style=flat-square" alt="Built"/> 🛡️ An end-to-end **Store Fraud Detection System**.
+- <img src="https://img.shields.io/badge/Expanding-2E8B57?style=flat-square" alt="Expanding"/> 🌱 My knowledge of **Machine Learning, SQL and Data Analytics**.
+- <img src="https://img.shields.io/badge/Tools-F7931E?style=flat-square" alt="Tools"/> 🧰 Working with Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
+- <img src="https://img.shields.io/badge/Interested_In-D14836?style=flat-square" alt="Interested In"/> 💡 Building practical projects that solve real-world problems.
+- <img src="https://img.shields.io/badge/Career_Interests-0A66C2?style=flat-square" alt="Career Interests"/> 🎯 **Data Analyst | Data Scientist | Machine Learning**.
+- <img src="https://img.shields.io/badge/Location-333333?style=flat-square" alt="Location"/> 📍 India.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=90&lines=%24+whoami+%E2%86%92+Santosh+Chavan;%24+location+%E2%86%92+India;%24+status+%E2%86%92+Open+to+Opportunities" alt="Terminal Typing"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6A5ACD,100:0E75B6&height=80&section=footer&animation=twinkling" width="100%" alt="Wave"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -204,7 +173,7 @@ my_toolkit = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chavansantosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chavansantosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <p align="center">
