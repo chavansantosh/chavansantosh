@@ -1,202 +1,300 @@
- 
-<div align="center">
+<h1 align="center">👋 Hi, I'm Santosh Chavan</h1>
 
-<!-- CUSTOM ANIMATED NEON HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,50:102B50,100:6C3B9E&height=220&section=header&text=Santosh%20Chavan&fontSize=55&fontColor=00D9FF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20AI&descSize=17&descAlignY=60&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Santosh+Chavan;Data+Science+%7C+Data+Analytics;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects" alt="Typing SVG"/>
+</p>
 
-<!-- ANIMATED TYPING HEADER -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Data+Science+%7C+Data+Analytics;Machine+Learning+%7C+Artificial+Intelligence;Turning+Data+into+Insights" alt="Typing SVG" />
-</a>
+<h3 align="center">🚀 Computer Science Graduate | Data Science | Data Analytics | Python</h3>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chavansantosh&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=chavansantosh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-my-data-science-toolkit">Toolkit</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-my-coding-repositories">Repositories</a> •
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chavansantosh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-chavan-986aaa283/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/santoshnarayanchavan)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:6A5ACD,100:00D9FF&height=100&section=header" width="100%"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate from **Osmania University, Hyderabad**.
-- 📊 Interested in Data Science, Data Analytics and Machine Learning.
-- 🐍 Working with Python and its data science ecosystem.
-- 🤖 Building practical projects involving machine learning and AI.
-- 📈 Exploring data analysis, visualization and predictive modeling.
-- 🚀 Currently progressing through Deep Learning and AI technologies.
-- 🎯 Seeking **2027 Data Science / Data Analyst internship opportunities**.
+| | |
+|---|---|
+| 🎓 **Education** | B.Sc. Computer Science Graduate from **Osmania University** |
+| 🐍 **Working with** | **Python** for data analysis and problem-solving |
+| 📊 **Exploring** | Datasets through **Data Cleaning, EDA and Visualization** |
+| 🤖 **Developing** | Knowledge of **Machine Learning and Model Evaluation** |
+| 🛡️ **Built** | An end-to-end **Store Fraud Detection System** |
+| 🌱 **Expanding** | **Machine Learning, SQL and Data Analytics** |
+| 🧰 **Tools** | Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn |
+| 💡 **Interested in** | Building practical projects that solve real-world problems |
+| 🎯 **Career Interests** | **Data Analyst \| Data Scientist \| Machine Learning** |
+| 📍 **Location** | India |
 
 ---
 
-## 🛠️ Technical Skills
+## 🐍 My Data Science Toolkit
 
-### Programming & Data Analysis
+```python
+my_toolkit = {
+    "Programming": [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+
+    "Data Analysis": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "EDA",
+        "Data Cleaning"
+    ],
+
+    "Machine Learning": [
+        "Scikit-learn",
+        "Regression",
+        "Classification",
+        "Model Evaluation",
+        "Feature Engineering"
+    ],
+
+    "Backend & Deployment": [
+        "FastAPI",
+        "React",
+        "Streamlit",
+        "Docker",
+        "MLflow"
+    ],
+
+    "Tools": [
+        "Jupyter Notebook",
+        "VS Code",
+        "Git",
+        "GitHub",
+        "MySQL"
+    ]
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**🧠 Data Science & Machine Learning**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Data Visualization
+**📊 Data Analytics & Statistics**
 
 <p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0E75B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-008B8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge"/>
 </p>
 
-### Machine Learning & AI
+**🤖 Machine Learning & MLOps**
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102B50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6C3B9E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00A6C8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Development & Tools
+**🌐 Web Development & Backend**
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+**🗄️ Database & Development Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ModelGuard AI — ML Model Monitoring
+### 🛡️ Store Fraud Detection System
 
-<sub>Currently in development</sub>
+> **End-to-End Fraud Detection System with ML Model Deployment and Monitoring**
 
-A machine learning project focused on hotel booking cancellation prediction and model monitoring.
+An end-to-end machine learning application that assesses financial transactions, estimates fraud probability, and maintains transaction prediction history.
 
-- Hotel booking cancellation prediction.
-- Data drift detection and statistical analysis.
-- Model performance and degradation monitoring.
-- Interactive monitoring dashboard.
+<p align="center">
+  <a href="https://github.com/chavansantosh/Store-Fraud-Detection-System">
+    <img src="https://github.com/chavansantosh/Store-Fraud-Detection-System/raw/main/frontend/public/dashboard.png" width="90%" alt="Fraud Detection Dashboard"/>
+  </a>
+</p>
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, React.
+<details open>
+<summary><b>✨ Key Features</b></summary>
+<br>
 
-### 2. WASTE WISE AI — Intelligent Food Waste Management
+- Transaction fraud prediction and probability scoring
+- FastAPI REST API
+- Interactive React dashboard
+- Database-backed transaction history
+- Model evaluation and performance metrics
+- MLflow, DVC and Docker supporting workflow
+- Automated backend testing
 
-An AI-powered project focused on food waste management and inventory insights.
+</details>
 
-- Inventory and product analysis.
-- Demand forecasting project workflows.
-- Expiry risk analysis.
-- Waste reduction recommendations.
+**Tech Stack:** `Python` · `Scikit-learn` · `FastAPI` · `React` · `MLflow` · `Docker` · `DVC`
 
-**Technologies:** Python, Machine Learning, FastAPI, React, SQL.
+<p>
+  <a href="https://github.com/chavansantosh/Store-Fraud-Detection-System">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chavansantosh/WASTE_WISE_AI)
+### ♻️ Waste Wise AI
 
-### 3. Store Fraud Detection System
+An AI-powered food waste management project focused on inventory analysis, demand forecasting, expiry risk prediction and waste reduction recommendations.
 
-An end-to-end machine learning project for detecting potentially fraudulent transactions.
+**Tech Stack:** `Python` · `Machine Learning` · `FastAPI` · `React` · `SQL`
 
-- Fraud prediction and probability scoring.
-- ML model tracking with MLflow.
-- API-based prediction workflow.
-- Docker-based deployment setup.
+<sub>🚧 Project development in progress.</sub>
 
-**Technologies:** Python, Scikit-learn, FastAPI, Streamlit, MLflow, Docker.
+### 📁 More Projects
 
-[![Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chavansantosh/Store-Fraud-Detection-System)
-
-### 4. Data Analysis Projects
-
-Exploratory data analysis and visualization projects using real-world datasets.
-
-- Netflix Data Analysis
-- Laptop Data Analysis
-- Real Estate Data Analysis
-- Market Data Analysis
-- Book Scraping
-
-[![Data Analysis Projects](https://img.shields.io/badge/Explore%20Repositories-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chavansantosh/Data-Analysis-Project)
-
----
-
-## 📚 Certifications
-
-- Cisco — Introduction to Data Science.
-- Cisco — Data Science Essentials with Python.
-- Simplilearn — Introduction to AI.
-- Simplilearn — Introduction to Pandas.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎬 **Netflix Data Analysis** | Exploratory analysis of Netflix content to discover trends, patterns and insights through data visualization. | Python · Pandas · Matplotlib · Seaborn |
+| 💻 **Laptop Data Analysis** | Collected, cleaned and analyzed laptop product information to explore specifications and pricing patterns. | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| 🏠 **Real Estate Data Analysis** | Processed real estate data using data cleaning, location standardization, price conversion and exploratory analysis. | Python · Pandas · EDA |
+| 📚 **Book Data Scraping & Analysis** | Collected book information using web scraping and transformed it into structured data for analysis. | Python · Requests · BeautifulSoup · Pandas |
+| 📈 **Market Data Analysis** | Worked with API-based market data collection and structured data analysis. | Python · Requests · APIs · Pandas |
 
 ---
 
-## 📈 GitHub Statistics
+## 📂 My Coding Repositories
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chavansantosh&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavansantosh&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=chavansantosh&theme=tokyonight&hide_border=true&ring=00D9FF&fire=6C3B9E&currStreakLabel=00D9FF" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/chavansantosh/python_daily_task">
+    <img src="https://img.shields.io/badge/Python%20Daily%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chavansantosh/python-it-lab">
+    <img src="https://img.shields.io/badge/Python%20IT%20Lab-3776AB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chavansantosh/Data-Analysis-Project">
+    <img src="https://img.shields.io/badge/Data%20Analysis%20Projects-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chavansantosh/Data-Science-Projects">
+    <img src="https://img.shields.io/badge/Data%20Science%20Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 My Learning Journey
+## 📊 GitHub Statistics
 
-| Area | Status |
-|---|---|
-| Python & Data Analysis | Completed |
-| Mathematics & Statistics | Completed |
-| Machine Learning | In progress |
-| Power BI | Exploring |
-| Deep Learning | Upcoming |
-| Agentic AI | Upcoming |
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chavansantosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavansantosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavansantosh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Certifications
+
+**Cisco Networking Academy**
+- Introduction to Data Science
+- Data Science Essentials with Python
+
+**Additional Learning**
+- Introduction to AI — Simplilearn
+- Pandas — Simplilearn
+
+---
+
+## 🎯 Career Objective
+
+I am looking for opportunities in **Data Analytics and Data Science** where I can apply my programming, analytical thinking, and statistical knowledge to real-world challenges.
+
+My goal is to build meaningful applications, contribute to impactful projects, collaborate with experienced professionals, and continuously grow as a technology professional.
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/santosh-chavan-986aaa283/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/chavansantosh">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:chavansantosh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/chavansantosh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santosh-chavan-986aaa283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/santoshnarayanchavan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:chavansantosh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🌟 My Philosophy
 
-### 💡 Build • Analyze • Learn • Improve
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Build+Something+Meaningful;Turn+Data+Into+Insights;Learn+Through+Real+Projects;Keep+Improving+Every+Day" alt="Motivational Typing"/>
+</p>
 
-*Turning curiosity into code and data into meaningful insights.*
+<h3 align="center">
+  "Don't stop when you're tired. Stop when you're proud of what you've built."
+</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3B9E,50:102B50,100:080B1A&height=110&section=footer"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-0E75B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LEARN-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLVE-008B8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REPEAT-333333?style=for-the-badge"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:6A5ACD,100:00D9FF&height=120&section=footer" width="100%"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h3>
+
+<h4 align="center">🚀 Build • Analyze • Learn • Improve</h4>
